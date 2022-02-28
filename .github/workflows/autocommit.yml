@@ -29,13 +29,13 @@ jobs:
           git config --local user.name "omololevy"
           git add -A
           
-          arr[0]="Levy-bot: successful commit"
+          arr[0]="Levy-bot: don't forget to learn react"
           arr[1]="Levy-bot: successful commit"
           arr[2]="Levy-bot: successful commit"
           arr[3]="Levy-bot: successful commit"
           arr[4]="Levy-bot: successful commit"
           arr[5]="Levy-bot: successful commit"
-          arr[6]="Levy-bot: successful commit"
+          arr[6]="Levy-bot: don't forget to learn react"
           arr[7]="Levy-bot: successful commit"
           arr[8]="Levy-bot: successful commit"
           arr[9]="Levy-bot: successful commit"
